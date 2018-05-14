@@ -1,0 +1,2 @@
+Single vs Double Quotes? Single does not resolve variable...but what does that mean in practicality?
+
